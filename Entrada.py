@@ -1,4 +1,3 @@
-# Crear un array bidimensional de 10x10 lleno de ceros
 array_2d = [['L' for _ in range(10)] for _ in range(10)]
 bandera = False
 
@@ -37,5 +36,3 @@ while not bandera:
         bandera = False
     else:
         bandera = True
-
-    
